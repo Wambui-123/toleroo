@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <!-- Background (same soft gray tone as original) -->
+  <rect width="256" height="256" fill="#F2F1F6"></rect>
+
+  <!-- Centered text -->
+  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="central" font-family="sans-serif" font-weight="600" font-size="44" letter-spacing="6" fill="#E0876C">
+    TOLEROO
+  </text>
+</svg>
